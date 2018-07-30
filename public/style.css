@@ -7,18 +7,64 @@
   color: red;
 }
 
-body {
+head {
 
-  background: pink;
+padding-top: 20px;
 
 }
 
-section {
+
+body {
+
+  font-family: gill sans;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  background: white;
+
+}
+
+h1 {
+
+display: flex;
+
+background-image: url("https://78.media.tumblr.com/13664929f6a643ce8513e395460273b3/tumblr_pcp75qw8KR1ug998ko1_540.png");
+
+padding-bottom: 20px;
+
+padding-top: 20px;
+
+font-size: 50px;
+color: white;
+text-shadow: 3px 3px darkslategrey;
+
+justify-content: center;
+
+}
+
+section#cats {
+
+  font-size: 19px;
+
+  padding-left: 50px;
+  padding-right: 50px;
 
   display: flex;
 
-  flex-direction: column;
+  flex-wrap: wrap;
+
+  flex-direction: row;
 
   justify-content: space-around;
+
+
+}
+
+ul {
+
+list-style: none;
 
 }
