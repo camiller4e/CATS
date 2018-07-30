@@ -1,7 +1,9 @@
 var CAT_ARRAY = [
   {name: "Spooky", favFood: "Ham", image: "http://gifimage.net/wp-content/uploads/2017/10/cat-pixel-gif-7.gif"},
   {name: "Clorp", favFood: "Sandwiches", image: "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/09/2a/e3/092ae356-b1f5-55f2-31e8-14d619522a3b/AppIcon-1x_U007emarketing-85-220-0-5.png/246x0w.jpg"},
-  {name: "Dr. Butts", favFood: "Pierogi", image: "https://i.pinimg.com/236x/65/bf/29/65bf29e93f43671504b5f80beb783414--animal-jam-pixel-art.jpg"}
+  {name: "Dr. Butts", favFood: "Pierogi", image: "https://i.pinimg.com/236x/65/bf/29/65bf29e93f43671504b5f80beb783414--animal-jam-pixel-art.jpg"},
+  {name: "Keith", favFood: "Candyfloss", image: "https://image.shutterstock.com/image-vector/vector-illustration-cartoon-cat-pixel-260nw-387938092.jpg"},
+  {name: "Pusheen", favFood: "Pizza", image: "https://icon2.kisspng.com/20180508/exe/kisspng-cat-pixel-art-pusheen-5af1d0f8983341.4977117815257971126234.jpg"}
 
 ]
 
